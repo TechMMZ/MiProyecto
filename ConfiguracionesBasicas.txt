@@ -1,0 +1,3 @@
+# Configuraciones Básicas para Git
+git config --global user.name "TuNombre"
+git config --global user.email "tuemail@ejemplo.com"
